@@ -1,7 +1,7 @@
 package com.ThreadInit;
 
 public class TIMED_WAITINGTest {
-
+    //加入註解
     public static void main(String[] args) throws InterruptedException {
         Thread t1 =new Thread(() -> {
 
